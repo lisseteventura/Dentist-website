@@ -22,7 +22,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 5rem 2rem;
+  margin: 8% 2rem;
 }
 img {
   width: 50%;
@@ -35,15 +35,19 @@ img {
   flex: -1;
   margin-right: 30px;
 }
-.home-details {
-}
 
 .procedure-details {
   flex: 1;
 }
 
+.contact-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
 .contact-details {
   text-align: center;
+  width: 50%;
 }
 .contact-details > img {
   width: 50%;

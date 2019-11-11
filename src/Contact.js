@@ -4,7 +4,7 @@ import toothfour from "./toothfour.png";
 class Contact extends Component {
   render() {
     return (
-      <div className="container">
+      <div className="contact-container">
         <div className="contact-details">
           <h1>Contact</h1>
 
